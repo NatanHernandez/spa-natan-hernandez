@@ -28,7 +28,7 @@ Esta aplicación es una single page application que se desarrollada en React par
 - Formularios con mensajes de error claros y `role="alert` para anunciarlos.
 
 ##  Pruebas de accesibilidad
-![Evidencia de Lighthouse y WAVE](./img/evidencia1.png)
+![Evidencia](docs/evidencia1.png)
 
 - Se utilizaron herramientas automáticas:
   - **WAVE** 
