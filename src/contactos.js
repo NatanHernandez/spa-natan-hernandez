@@ -9,7 +9,7 @@ export default function Contacto() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Validaciones básicas para mostrar errores accesibles
+  
     const nuevosErrores = {};
     if (!nombre.trim()) nuevosErrores.nombre = "El nombre es obligatorio";
     if (!correo.trim()) nuevosErrores.correo = "El correo es obligatorio";
@@ -18,7 +18,7 @@ export default function Contacto() {
     setErrores(nuevosErrores);
 
     if (Object.keys(nuevosErrores).length === 0) {
-      // aquí enviarías el formulario
+    
       alert("Formulario enviado correctamente");
       setNombre("");
       setCorreo("");
