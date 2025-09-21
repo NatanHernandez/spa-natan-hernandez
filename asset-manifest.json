@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spa-natan-hernandez/static/css/main.6f46f36a.css",
-    "main.js": "/spa-natan-hernandez/static/js/main.70dd7505.js",
+    "main.js": "/spa-natan-hernandez/static/js/main.09c19ed1.js",
     "index.html": "/spa-natan-hernandez/index.html",
     "main.6f46f36a.css.map": "/spa-natan-hernandez/static/css/main.6f46f36a.css.map",
-    "main.70dd7505.js.map": "/spa-natan-hernandez/static/js/main.70dd7505.js.map"
+    "main.09c19ed1.js.map": "/spa-natan-hernandez/static/js/main.09c19ed1.js.map"
   },
   "entrypoints": [
     "static/css/main.6f46f36a.css",
-    "static/js/main.70dd7505.js"
+    "static/js/main.09c19ed1.js"
   ]
 }
