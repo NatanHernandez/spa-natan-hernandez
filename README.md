@@ -72,13 +72,17 @@ este SPa esta creado para rodo el publico
 ---
 
 ### Problemas detectados y soluciones aplicadas
-| Problema detectado | Solución aplicada |
-|--------------------|------------------|
-| se ven algunas faltas de enfoque visibles  | se trate de mantener los estilos en botones e inputs |
-| Se usan contraste basicos | Se ajustaron colores para el contraste y visibiidad en el SPA |
-| Se crean imagenes basicas | agregue textos alternativos (alt) descriptivos |
-| Cree estructuras semanticas basicas | pero agregue role=main en main y aria-label en nav |
-
+ Problema detectado Solución aplicada 
+-  se ven algunas faltas de enfoque visibles
+-  Se usan contraste basicos  
+- Se crean imagenes basicas 
+- Cree estructuras semanticas basicas 
+ Cree estructuras semanticas basicas 
+  Solución aplicada
+- se trate de mantener los estilos en botones e inputs
+- Se ajustaron colores para el contraste y visibiidad en el SPA
+- agregue textos alternativos (alt) descriptivos
+-  pero agregue role=main en main y aria-label en nav
 ---
 
 ##Scripts disponibles
