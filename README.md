@@ -66,7 +66,8 @@ este SPa esta creado para rodo el publico
   ![Evidencia](docs/evidencia2.png)
   este revisa accesibilidad basica,detecta personas y problemas y se centra en parametros como el rendimiento, accesibilidad, buenas practicas, seo y PWA (apps progresivas)
 - Pruebas manuales de navegación con teclado y lector de pantalla.
-  
+   ![Evidencia](docs/evidencia3.png)
+  se trata de dar claridad y entender de otra forma la accesibilidad para el usuario mediante datos propuestos para la compra y venta de un automovil
 
 ---
 
