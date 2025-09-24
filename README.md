@@ -69,19 +69,10 @@ este SPa esta creado para rodo el publico
 ### Problemas detectados y soluciones aplicadas
 | Problema detectado | Solución aplicada |
 |--------------------|------------------|
-| Falta de enfoque visible al navegar con Tab | Se mantuvieron los estilos focus en botones e inputs |
-| Contraste insuficiente en botones (hover) | Se ajustaron colores (#0044cc y blanco) para contraste ≥ 4.5:1 |
-| Imágenes sin descripción | Se agregaron textos alternativos (alt) descriptivos |
-| Mensajes de error no accesibles | Se añadió role="alert y aria-describedby en cada campo |
-| Estructura semántica incompleta | Se agregó role="main en main y aria-label en nav |
-
----
-
-### Evidencia de pruebas
-- WAVE   
-- Lighthouse   
-- Pruebas manuales  
-- Formulario
+| se ven algunas faltas de enfoque visibles  | se trate de mantener los estilos en botones e inputs |
+| Se usan contraste basicos | Se ajustaron colores para el contraste y visibiidad en el SPA |
+| Se crean imagenes basicas | agregue textos alternativos (alt) descriptivos |
+| Cree estructuras semanticas basicas | pero agregue role=main en main y aria-label en nav |
 
 ---
 
