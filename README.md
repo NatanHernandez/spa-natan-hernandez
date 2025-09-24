@@ -61,7 +61,8 @@ este SPa esta creado para rodo el publico
 ###Herramientas utilizadas
 - WAVE
   ![Evidencia](docs/evidencia1.png)
-- Lighthouse.  
+- Lighthouse.
+  ![Evidencia](docs/evidencia2.png)
 - Pruebas manuales de navegación con teclado y lector de pantalla.  
 
 ---
