@@ -61,9 +61,12 @@ este SPa esta creado para rodo el publico
 ###Herramientas utilizadas
 - WAVE
   ![Evidencia](docs/evidencia1.png)
+  se usa como extension de navegador con el fin de señalar errores visuales en la pagina web; este tiene como finalidad la accesibilidad de la pagina web 
 - Lighthouse.
   ![Evidencia](docs/evidencia2.png)
-- Pruebas manuales de navegación con teclado y lector de pantalla.  
+  este revisa accesibilidad basica,detecta personas y problemas y se centra en parametros como el rendimiento, accesibilidad, buenas practicas, seo y PWA (apps progresivas)
+- Pruebas manuales de navegación con teclado y lector de pantalla.
+  
 
 ---
 
