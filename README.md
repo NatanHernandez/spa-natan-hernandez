@@ -85,7 +85,7 @@ este SPa esta creado para rodo el publico
 -  pero agregue role=main en main y aria-label en nav
 ---
 
-##Scripts disponibles
+## Scripts disponibles
 En el directorio del proyecto puedes ejecutar:
 
 - npm start- inicia la app en modo desarrollo.  
