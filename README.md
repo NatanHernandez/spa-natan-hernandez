@@ -73,7 +73,7 @@ este SPa esta creado para rodo el publico
 
 ### Problemas detectados y soluciones aplicadas
 ---
-### Problema detectado Solución aplicada 
+### Problema detectado  
 -  se ven algunas faltas de enfoque visibles
 -  Se usan contraste basicos  
 - Se crean imagenes basicas 
