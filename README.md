@@ -56,10 +56,11 @@ este SPa esta creado para rodo el publico
 
 ---
 
-## 📋 Informe de pruebas de accesibilidad
+## Informe de pruebas de accesibilidad
 
-### 🔹 Herramientas utilizadas
-- WAVE  
+###Herramientas utilizadas
+- WAVE
+  ![Evidencia](docs/evidencia1.png)
 - Lighthouse.  
 - Pruebas manuales de navegación con teclado y lector de pantalla.  
 
