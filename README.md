@@ -89,6 +89,7 @@ este SPa esta creado para rodo el publico
 En el directorio del proyecto puedes ejecutar:
 
 - npm start- inicia la app en modo desarrollo.  
-- npm run build - crea la versión optimizada para producción.  
-- npm run deploy - despliega la app en GitHub Pages.  
+- npm run build - cree la versión optimizada para produccion.  
+- npm run deploy - despliega la app en GitHub
+- todos aplicandolos desde vs (visual studio code) mediante la terminal  
 
