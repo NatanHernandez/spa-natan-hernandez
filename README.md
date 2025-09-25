@@ -29,7 +29,7 @@ En este proyecto se  aplicaron las pautas de accesibilidad WCAG 2.1:
 
 ---
 
-## Guía de usuario accesible
+# Guía de usuario 
 este SPa esta creado para rodo el publico
 
 ### Navegación con teclado
